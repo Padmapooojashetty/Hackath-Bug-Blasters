@@ -1,0 +1,3 @@
+cd C:\Users\padma\OneDrive\Desktop\Hackath-Bug Blasters
+phishing_env\Scripts\activate
+streamlit run streamlit_phishing_checker.py
